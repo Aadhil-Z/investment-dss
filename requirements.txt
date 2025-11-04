@@ -1,0 +1,7 @@
+Flask==2.3.2
+numpy
+pandas
+matplotlib
+reportlab
+plotly
+numpy-financial
